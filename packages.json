@@ -6,12 +6,12 @@
             "description": "This plugin will switch from ST2 to Google Chrome and reload the active tab",
             "author": "Giovanni Collazo (@gcollazo)",
             "homepage": "http://elweb.co/hacking/sublime-text-sync-browser-refresh/",
-            "last_modified": "2012-03-09 22:15:00",
+            "last_modified": "2012-04-23 11:20:00",
             "platforms": {
                 "osx": [
                     {
-                        "version": "1.0.0",
-                        "url": "https://nodeload.github.com/gcollazo/BrowserRefresh-Sublime/zipball/v1.0.0"
+                        "version": "1.0.1",
+                        "url": "https://github.com/gcollazo/BrowserRefresh-Sublime/zipball/v1.0.1"
                     }
                 ]
             }
