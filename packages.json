@@ -3,7 +3,7 @@
     "packages": [
         {
             "name": "Browser Refresh",
-            "description": "This plugin will switch from ST2 to Google Chrome and reload the active tab",
+            "description": "Save the file you are working on and refresh your browser with one keystroke",
             "author": "Giovanni Collazo (@gcollazo)",
             "homepage": "http://gcollazo.github.com/BrowserRefresh-Sublime",
             "last_modified": "2012-06-28 20:28:00",
