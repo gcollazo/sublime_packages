@@ -6,6 +6,7 @@
             "description": "Save the file you are working on and refresh your browser with one keystroke",
             "author": "Giovanni Collazo (@gcollazo)",
             "homepage": "http://gcollazo.github.com/BrowserRefresh-Sublime",
+            "readme": "https://raw.github.com/gcollazo/BrowserRefresh-Sublime/master/README.md",
             "last_modified": "2013-03-20 13:16:01",
             "platforms": {
                 "osx": [
@@ -20,7 +21,8 @@
                         "url": "https://nodeload.github.com/gcollazo/BrowserRefresh-Sublime/zipball/v1.2.0"
                     }
                 ]
-            }
+            },
+            "sublime_text": "*"
         }
     ]
 }
