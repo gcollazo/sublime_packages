@@ -12,13 +12,13 @@
                 "osx": [
                     {
                         "version": "1.2.1",
-                        "url": "https://github.com/gcollazo/BrowserRefresh-Sublime/archive/1.2.1.tar.gz"
+                        "url": "https://github.com/gcollazo/BrowserRefresh-Sublime/archive/1.2.1.zip"
                     }
                 ],
                 "windows": [
                     {
                         "version": "1.2.1",
-                        "url": "https://github.com/gcollazo/BrowserRefresh-Sublime/archive/1.2.1.tar.gz"
+                        "url": "https://github.com/gcollazo/BrowserRefresh-Sublime/archive/1.2.1.zip"
                     }
                 ]
             },
