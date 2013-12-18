@@ -7,21 +7,21 @@
             "author": "Giovanni Collazo (@gcollazo)",
             "homepage": "http://gcollazo.github.com/BrowserRefresh-Sublime",
             "readme": "https://raw.github.com/gcollazo/BrowserRefresh-Sublime/master/README.md",
-            "last_modified": "2013-12-18 11:46:00",
+            "last_modified": "2013-12-18 12:51:00",
             "releases" : [
                 {
                     "sublime_text": "*",
                     "platforms": {
                         "osx": [
                             {
-                                "version": "1.2.6",
-                                "url": "https://github.com/gcollazo/BrowserRefresh-Sublime/archive/1.2.6.zip"
+                                "version": "1.2.7",
+                                "url": "https://github.com/gcollazo/BrowserRefresh-Sublime/archive/1.2.7.zip"
                             }
                         ],
                         "windows": [
                             {
-                                "version": "1.2.6",
-                                "url": "https://github.com/gcollazo/BrowserRefresh-Sublime/archive/1.2.6.zip"
+                                "version": "1.2.7",
+                                "url": "https://github.com/gcollazo/BrowserRefresh-Sublime/archive/1.2.7.zip"
                             }
                         ]
                     }
