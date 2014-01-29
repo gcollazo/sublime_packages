@@ -5,10 +5,7 @@
             "name": "Browser Refresh",
             "description": "Save the file you are working on and refresh your browser with one keystroke",
             "author": "Giovanni Collazo (@gcollazo)",
-            "homepage": "http://gcollazo.github.com/BrowserRefresh-Sublime",
-            "readme": "https://raw.github.com/gcollazo/BrowserRefresh-Sublime/master/README.md",
             "details": "https://github.com/gcollazo/BrowserRefresh-Sublime",
-            "last_modified": "2013-12-18 12:51:00",
             "releases": [
                 {
                     "sublime_text": "*",
