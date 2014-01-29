@@ -9,7 +9,7 @@
             "releases": [
                 {
                     "sublime_text": "*",
-                    "platforms": ["windows", "osx"],
+                    "platforms": ["windows", "osx", "linux"],
                     "details": "https://github.com/gcollazo/BrowserRefresh-Sublime/tags"
                 }
             ]
